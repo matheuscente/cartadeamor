@@ -44,6 +44,7 @@ body {
     background-color: #fafaf3;
     z-index: 9;
     width: 100vw;
+    height: 120vh;
 }
 
 .items-bg::before {
