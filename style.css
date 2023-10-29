@@ -59,7 +59,7 @@ body {
 }
 
 .items-bg:nth-child(even) {
-    background-color: #a1a191 ;
+    background-color: #bdbdac ;
 }
 
 .items {
@@ -174,7 +174,7 @@ button {
     width: 64px;
     height: 64px;
     background: url(./imagens/coracao.svg);
-    right: 50%;
+    right: 100%;
     top: 40%;
     transform: rotate(-20deg);
 }
